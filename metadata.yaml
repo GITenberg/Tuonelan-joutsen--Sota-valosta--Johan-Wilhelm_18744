@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eino_Leino
     - http://fi.wikipedia.org/wiki/Eino_Leino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18744#Tuonelan-joutsen--Sota-valosta--Johan-Wilhelm
 gutenberg_issued: '2006-07-03'
 gutenberg_type: Text
 identifiers:
